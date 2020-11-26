@@ -68,8 +68,8 @@ a {
 }
 /* ----------------ELEMENTS PRESENTS SUR TOUTES LES PAGES ---------------------------------------------------------------------------------------------------------------------------------------- */
 input {
-  padding-top: 16px;
-  padding-bottom: 16px;
+  padding-top: 15px;
+  padding-bottom: 14px;
   width: 400px;
 }
 
@@ -375,7 +375,7 @@ header {
   padding-top: 60px;
   position: relative;
 }
-  /* -----------------------Animation------------------------- */
+  /* -----------------------Animation Blog------------------------- */
 .blogAnimation{
   font-size: 2.5rem;
   position: relative;
@@ -440,7 +440,7 @@ header {
 .five {
   width: 60px;
 }
-.flexad {
+.site-advantages {
   display: flex;
   flex-wrap: nowrap;
 }
@@ -511,6 +511,9 @@ header {
 }
 
 /* ---------------Social network links------------------------------------------ */
+.p-social{
+  margin-bottom: 15px;
+}
 .socialConnect {
   margin: 15px;
 }
@@ -518,6 +521,9 @@ header {
 .social-icons {
   height: 60px;
   margin-left: 20px;
+}
+.facebook-icon{
+ height: 65px;
 }
 
 /* ------------------------Back to top -------------------------------------- */

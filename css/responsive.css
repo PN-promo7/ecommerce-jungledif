@@ -118,7 +118,7 @@
 /* --------------------------------FOOTER SIZE------------------------------ */
 
 /* ------ADVANTAGES------ */
-  .flexad {
+  .site-advantages {
     display: block;
   }
 
@@ -179,6 +179,9 @@
   .social-icons {
     height: 53px;
     margin-top: 10px;
+  }
+  .facebook-icon{
+    height: 57px;
   }
 }
 
